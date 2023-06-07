@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jake Pulitzer
+title: Marketing Analyst | Strategist | Strategic Thinker
+email: pulitzer.jake@gmail.com
+website: www.github.com/...
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: pulitzer_jake
+github_username:  [XXXXX]
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+instagram_username: [XXXXX]
+linkedin_username: [XXXXX]
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+youtube_username: [XXXXX]
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
