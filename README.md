@@ -1,3 +1,8 @@
-# test-portfilio
+# Jake Pulitzer's Portfolio
 
-This repository is to learn how to create a static webpage to store my personal projects on a github page.
+I created this repository to have a central webpage for viewing my resume and projects within GitHub.
+
+On this GitHub page you will find my bio, professional experience, and links to my personal projects.
+
+If you are interested in my work, please contact me at pulitzer.jake@gmail.com
+
