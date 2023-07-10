@@ -76,15 +76,30 @@ content:
       - layout: left
         title: Xcel Energy
         link: xcelenergy.com
-        link_text: xcelenergy.com
+        link_text: XcelEnergy.com
         sub_title: Marketing Analyst
         caption: October 2021 - present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            * Build reports and dashboards for monitoring and analyzing marketing campaign performance metrics to identify issues, optimize effectiveness and inform future campaigns using lean methodologies; deliver recommendations to program managers and leadership for further segmentation, increasing campaign effectiveness by 200%
+            * Build reports and dashboards to monitor and analyze product and marketing performance metrics to identify issues and optimize effectiveness of future campaigns using lean methodologies; deliver recommendations to product managers and leadership for further segmentation, resulting in 200% increase in campaign effectiveness
             * Work with product managers to identify and define KPI’s for tracking product portfolio performance; pulled reports from variety of sources including Salesforce.com and other legacy systems to report to leadership and external stakeholders
             * Developed process for building, testing, launching and monitoring email campaigns to achieve operational excellence; documented tasks and steps to ensure repeatable process with seamless knowledge transfer
+            * Designed and implimented strategic marketing campaign which gained Xcel Energy recognition from SECC as a leader in Consumer Education for a robust, multi-channel campaign that helped consumers learn the specifics of a new time-of-use rate and empowered them to manage their energy use
+      - layout: left
+        title: Pulitzer Family Law
+        link: https://pulitzerfamilylaw.com
+        link_text: PulitzerFamilyLaw.com
+        sub_title: Intern / Marketing Consultant
+        caption: June 2019 - August 2021
+        quote: >
+          INSERT QUOTE HERE
+        description: |
+            * Developed marketing strategies for customer acquisition; implimented tactics including office relocation and segment pivot resulting in increase in revenue and reduction in total billed hours.
+            * Built various dashboard utilizing Google Analytics to optimize campaign effectiveness; tracked leads from multiple law directories and reallocated a $20,000 marketing budget to maximize ROI based on historical ad performance
+            * Oversaw web development team to ensure project build was completed in designated timeframe and within budget while maintaining brand standards and company values
+
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -98,6 +113,7 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
