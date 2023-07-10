@@ -131,25 +131,23 @@ content:
         title: Master of Science in Business Analytics
         sub_title: University of Colorado Boulder, Leeds School of Business
         caption: GPA 3.7
-        quote: July 2020 - May 2021
+        caption: July 2020 - May 2021
         # description: | # this will include new lines to allow paragraphs
       - layout: top-right
         title: Bachelor of Science in Strategic Communications, Minor in Business Entrepreneurship
         sub_title: University of Colorado Boulder
         caption: GPA 3.5
-        quote: August 2016 - May 2020
+        caption: August 2016 - May 2020
 
-  - title: A Little More About Me
+  - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Additional Skills:
+      - Strong interpersonal skills
+      - Data visualization tools (PowerBI, Tableau, SAP Analytics Cloud, Looker Studio)
+      - Python Libraries for data analysis (pandas, NumPy, SciKit-Learn, Matplotlib, seaborn, TensorFlow)
+      - Microsoft Office 365 Expert (Excel, Word, PowerPoint, Teams, OneDrive, Sharepoint, PowerAutomate, Lists, Forms)
+      - Project management software (Jira, Confluence, GitHub)
 
 # Footer
 footer_show_references: true
