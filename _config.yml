@@ -126,14 +126,14 @@ content:
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content:
-      - layout: center
+    content: 
+      - layout: top-right
         title: Master of Science in Business Analytics
         sub_title: University of Colorado Boulder, Leeds School of Business
         caption: GPA 3.7
         quote: July 2020 - May 2021
         # description: | # this will include new lines to allow paragraphs
-      - layout: center
+      - layout: top-right
         title: Bachelor of Science in Strategic Communications, Minor in Business Entrepreneurship
         sub_title: University of Colorado Boulder
         caption: GPA 3.5
