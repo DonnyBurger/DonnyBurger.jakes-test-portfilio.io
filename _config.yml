@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/IMG_1387-edited-1.webp
+about_profile_image: images/IMG_0082.jpeg
 about_content: | # this will include new lines to allow paragraphs (Note: do not adjust formatting below or else you will break the build! Must be indented and directly below this line.)
     Hi, My name is Jake Pulitzer. I am a motivated and hard working Marketing Analyst hoping to make a positive impact in the clean tech and sustainable energy sectors. Specializing in customer-facing products and programs powered by AMI technology (smart meters), I work on a start-up like team that uses Agile and Lean business management methodologies to drive continuous improvement. I excel at building relationships with internal and external stakeholders, leading the development of complex marketing campaigns in Salesforce, and monitoring customer behavior and engagement data. My problem-solving mindset drives me to analyze program performance, identify key areas to improve customer experience, and make process improvement recommendations to management. With a Master's in Business Analytics and a Bachelor's in Strategic Communications from the University of Colorado Boulder, I stay up-to-date on the latest tech, marketing, and CX trends in the utility industry and clean tech sector. Outside of work, I am an aspiring entrepreneur, outdoor enthusiast, and am always ready to take on challenges and dive into innovative solutions.
 
@@ -85,7 +85,6 @@ content:
             * Build reports and dashboards for monitoring and analyzing marketing campaign performance metrics to identify issues, optimize effectiveness and inform future campaigns using lean methodologies; deliver recommendations to program managers and leadership for further segmentation, increasing campaign effectiveness by 200%
             * Work with product managers to identify and define KPI’s for tracking product portfolio performance; pulled reports from variety of sources including Salesforce.com and other legacy systems to report to leadership and external stakeholders
             * Developed process for building, testing, launching and monitoring email campaigns to achieve operational excellence; documented tasks and steps to ensure repeatable process with seamless knowledge transfer
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -99,7 +98,6 @@ content:
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
