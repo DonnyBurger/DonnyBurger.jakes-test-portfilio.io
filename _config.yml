@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 twitter_username: pulitzer_jake
-github_username:  DonnyBurger
+github_username:  jakepulitzer
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -46,9 +46,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/IMG_0082.jpeg
+about_profile_image: images/IMG_1387.jpeg
 about_content: | # this will include new lines to allow paragraphs
-Hi, My name is Jake Pulitzer. I am a motivated and hard working Marketing Analyst hoping to make a positive impact in the clean technology sector. I am currently working on providing analysis of customer-facing products and programs powered by AMI technology (smart meters), I work on a start-up-like team that uses Agile and Lean business management methodologies to drive continuous improvement. I excel at building relationships with internal and external stakeholders, leading the development of complex marketing campaigns in Salesforce, and monitoring customer behavior and engagement data. My problem-solving mindset drives me to analyze program performance, identify key areas to improve customer experience, and make process improvement recommendations to management. With a Master's Degree in Business Analytics and a Bachelor's in Strategic Communications from the University of Colorado Boulder, I stay up-to-date on the latest tech, marketing, and CX trends in the utility industry and clean tech sector. Outside of work, I am an aspiring entrepreneur, outdoor enthusiast, and am always ready to take on challenges and dive into innovative solutions.
+Hi, My name is Jake Pulitzer. I am a motivated and hard working Marketing Analyst hoping to make a positive impact in the clean tech and sustainable energy sectors. Specializing in customer-facing products and programs powered by AMI technology (smart meters), I work on a start-up-like team that uses Agile and Lean business management methodologies to drive continuous improvement. I excel at building relationships with internal and external stakeholders, leading the development of complex marketing campaigns in Salesforce, and monitoring customer behavior and engagement data. My problem-solving mindset drives me to analyze program performance, identify key areas to improve customer experience, and make process improvement recommendations to management. With a Master's in Business Analytics and a Bachelor's in Strategic Communications from the University of Colorado Boulder, I stay up-to-date on the latest tech, marketing, and CX trends in the utility industry and clean tech sector. Outside of work, I am an aspiring entrepreneur, outdoor enthusiast, and am always ready to take on challenges and dive into innovative solutions.
 
 content:
   # - title: Projects # Title for the section
