@@ -127,13 +127,13 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content: 
-      - layout: top-right
+      - layout: top-left
         title: Master of Science in Business Analytics
         sub_title: University of Colorado Boulder, Leeds School of Business
         caption: GPA 3.7
         caption: July 2020 - May 2021
         # description: | # this will include new lines to allow paragraphs
-      - layout: top-right
+      - layout: top-left
         title: Bachelor of Science in Strategic Communications, Minor in Business Entrepreneurship
         sub_title: University of Colorado Boulder
         caption: GPA 3.5
@@ -144,6 +144,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       Additional Skills:
       - Strong interpersonal skills
+      - Excellent written and verbal communication skills
+      - Strong Quantitative and Qualitative research
       - Data visualization tools (PowerBI, Tableau, SAP Analytics Cloud, Looker Studio)
       - Python Libraries for data analysis (pandas, NumPy, SciKit-Learn, Matplotlib, seaborn, TensorFlow)
       - Microsoft Office 365 Expert (Excel, Word, PowerPoint, Teams, OneDrive, Sharepoint, PowerAutomate, Lists, Forms)
