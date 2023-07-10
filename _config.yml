@@ -110,6 +110,17 @@ content:
             * Created webpages and configured newsletter email automation for 80+ raeltors utilizing Adobe Dreamweaver, HTML, CSS, WordPress, and Mailchimp
             * Assisted Marketing Director with inventory management to establish homogeneous display of brand image across 8 offices in Colorado; showcased strong written and verbal communication skills to eliminate delay in marketing materials
             * Devised targeted social media campaigns and defined clear customer segmentation strategy to increase total impressions; collaborated with CMO and client care team to manage omni-channel marketing campaigns
+      - layout: left
+        title: Untapped Learning
+        link: https://untappedlearning.com/
+        link_text: untappedlearning.com
+        sub_title: Student Mentor
+        caption: August 2018 - June 2019
+        # quote: >
+        #   [INSERT QUOTE HERE]
+        description: |
+            * Managed group of 70+ high school student athletes with executive functioning disorders
+            * Tracked academic progress of 5 students, identifying areas of weakness in Math, Science, and Writing; planned study schedules and conducted individual remedial lessons leading to a 30% increase in academic performance
     # USE SECTION BELOW AS TEMPLATE FOR SECTION INFO
       # - layout: left
       #   title: COMPANY NAME
@@ -138,6 +149,9 @@ content:
         sub_title: University of Colorado Boulder
         caption: GPA 3.5
         caption: August 2016 - May 2020
+        description: |
+        Additional Information:
+        - Held Banquet Chairman position at Chi Psi Fraternity where I acted as liason between fratenity members and head Chef to gurantee brotherhood satisfaction. Included coordinating large banquet events, reporting meal recommendations to kitchen staff based on brotherhood feedback, and assisting finance chairman with managing food budget.
 
   - title: More About Me
     layout: text
