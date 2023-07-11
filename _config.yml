@@ -144,22 +144,21 @@ content:
         caption: GPA 3.7
         caption: July 2020 - May 2021
         description: |
-          Throughout my Master's degree at Leeds School of Business I gained extensive knowledge in data science, market analyis, and business management which I continue to use in my everyday work. I also learned and developed technical coding skills in python, SQL, RStudio, JSON, CSS, and HTML through various courses and group projects.
+          During my Master's program at Leeds School of Business I gained extensive knowledge in data science, market analyis, and business management which I continue to use in my everyday work. I also learned and developed technical coding skills in `python`, `SQL`, `RStudio`, `JSON`, `CSS`, and `HTML` through various courses and group projects.
 
           Some of the projects I worked on include:
           - Built and normalized MySQL database for mock beer company; ran advanced queries, developed user defined functions, and integrated database with Tableau to create informative dashboards and visualizations
           - Developed ML classification model for Arrow Electronics to predict the likelihood of a customer order receiving a discount.
           - Scraped twitter data to conduct network analysis of 3 whisky brands to analyse current brand positioning and identify areas of opportunity. Preprocessed text with tokenization, sentiment analysis, and stopword removal to ensure I derived actionable insights for business recommendations.
           - Created customer retention and acquisition models for woman's apparel brand by computing individual level customer lifetime value measures and utilizing results to assess profitability of customer retention efforts. 
-
-          
+      ---
       - layout: top-left
         title: Bachelor of Science in Strategic Communications, Minor in Business Entrepreneurship
         sub_title: University of Colorado Boulder
         caption: GPA 3.5
         caption: August 2016 - May 2020
         description: |
-          During my Bachelor's degree at the University of Colorado Boulder I developed numerous skills including project management, team work, market research, start-up business analysis, and creative strategic thinking. I worked on numerous class projects focused on re-branding established companys, conducting quantitative and qualitative market research, and utilizing standardized processes for start-up business development.
+          While pursuing my Bachelor's degree at the University of Colorado Boulder I developed numerous skills including project management, team work, market research, start-up business analysis, and creative strategic thinking. I worked on numerous class projects focused on re-branding established companys, conducting quantitative and qualitative market research, and utilizing standardized processes for start-up business development.
 
           In addition to my school projects, I was a member of Chi Psi Fraternity where I held Banquet Chairman position. As the Banquet Charman I acted as a liason between fratenity members and the kitchen staff to ensure brotherhood satisfaction. This included coordinating large banquet events, reporting meal recommendations to head Chef based on brotherhood feedback, and assisting finance chairman with managing food budget and making cuts where neccessary.
 
