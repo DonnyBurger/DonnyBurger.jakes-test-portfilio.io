@@ -150,8 +150,9 @@ content:
           - Built and normalized MySQL database for mock beer company; ran advanced queries, developed user defined functions, and integrated database with Tableau to create informative dashboards and visualizations
           - Developed ML classification model for Arrow Electronics to predict the likelihood of a customer order receiving a discount.
           - Scraped twitter data to conduct network analysis of 3 whisky brands to analyse current brand positioning and identify areas of opportunity. Preprocessed text with tokenization, sentiment analysis, and stopword removal to ensure I derived actionable insights for business recommendations.
-          - Created customer retention and acquisition models for woman's apparel brand by computing individual level customer lifetime value measures and utilizing results to assess profitability of customer retention efforts. 
-      ---
+          - Created customer retention and acquisition models for woman's apparel brand by computing individual level customer lifetime value measures and utilizing results to assess profitability of customer retention efforts.
+          ---
+
       - layout: top-left
         title: Bachelor of Science in Strategic Communications, Minor in Business Entrepreneurship
         sub_title: University of Colorado Boulder
