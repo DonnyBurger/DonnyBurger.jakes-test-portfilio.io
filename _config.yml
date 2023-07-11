@@ -151,7 +151,7 @@ content:
           - Developed ML classification model for Arrow Electronics to predict the likelihood of a customer order receiving a discount.
           - Scraped twitter data to conduct network analysis of 3 whisky brands to analyse current brand positioning and identify areas of opportunity. Preprocessed text with tokenization, sentiment analysis, and stopword removal to ensure I derived actionable insights for business recommendations.
           - Created customer retention and acquisition models for woman's apparel brand by computing individual level customer lifetime value measures and utilizing results to assess profitability of customer retention efforts.
-          ---
+          ___
 
       - layout: top-left
         title: Bachelor of Science in Strategic Communications, Minor in Business Entrepreneurship
@@ -161,7 +161,7 @@ content:
         description: |
           While pursuing my Bachelor's degree at the University of Colorado Boulder I developed numerous skills including project management, team work, market research, start-up business analysis, and creative strategic thinking. I worked on numerous class projects focused on re-branding established companys, conducting quantitative and qualitative market research, and utilizing standardized processes for start-up business development.
 
-          In addition to my school projects, I was a member of Chi Psi Fraternity where I held Banquet Chairman position. As the Banquet Charman I acted as a liason between fratenity members and the kitchen staff to ensure brotherhood satisfaction. This included coordinating large banquet events, reporting meal recommendations to head Chef based on brotherhood feedback, and assisting finance chairman with managing food budget and making cuts where neccessary.
+          In addition to my school projects, I was a member of Chi Psi Fraternity where I held the Banquet Chairman position. As the Banquet Charman I acted as a liason between fratenity members and the kitchen staff to ensure brotherhood satisfaction. This included coordinating large banquet events, reporting meal recommendations to head Chef based on brotherhood feedback, and assisting finance chairman with managing food budget and making cuts where neccessary.
 
   - title: More About Me
     layout: text
