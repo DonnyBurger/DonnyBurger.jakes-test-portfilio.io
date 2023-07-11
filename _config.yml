@@ -178,7 +178,7 @@ content:
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Additional Skills:
+      **Additional Skills:**
       - Strong interpersonal skills
       - Excellent written and verbal communication skills
       - Strong Quantitative and Qualitative research
@@ -186,7 +186,8 @@ content:
       - Python Libraries for data analysis (pandas, NumPy, SciKit-Learn, Matplotlib, seaborn, TensorFlow)
       - Microsoft Office 365 Expert (Excel, Word, PowerPoint, Teams, OneDrive, Sharepoint, PowerAutomate, Lists, Forms)
       - Project management software (Jira, Confluence, GitHub)
-      Interests:
+
+      **Interests:**
       - Staying current with clean tech and growth marketing trends
       - mastering investment strategies
       - Outdoor activities including fly fishing, golfing, hiking, & skiing
