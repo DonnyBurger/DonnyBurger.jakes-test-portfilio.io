@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/IMG_0082.jpeg
 about_content: | # this will include new lines to allow paragraphs (Note: do not adjust formatting below or else you will break the build! Must be indented and directly below this line.)
-    Hi, My name is Jake Pulitzer. I am a motivated and hard working Marketing Analyst hoping to make a positive impact in the clean tech and sustainable energy sectors. Specializing in customer-facing products and programs powered by AMI technology (smart meters), I work on a start-up like team that uses Agile and Lean business management methodologies to drive continuous improvement. I excel at building relationships with internal and external stakeholders, leading the development of complex marketing campaigns in Salesforce, and monitoring customer behavior and engagement data. My problem-solving mindset drives me to analyze program performance, identify key areas to improve customer experience, and make process improvement recommendations to management. With a Master's in Business Analytics and a Bachelor's in Strategic Communications from the University of Colorado Boulder, I stay up-to-date on the latest tech, marketing, and CX trends in the utility industry and clean tech sector. Outside of work, I am an aspiring entrepreneur, outdoor enthusiast, and am always ready to take on challenges and dive into innovative solutions.
+    Hi, My name is Jake Pulitzer. I am a motivated and hard working Marketing Analyst hoping to make a positive impact in the clean tech and sustainable energy sectors. I am currently working on a start-up like team that uses Agile and Lean business management methodologies to develop customer facing products and programs enabled by AMI technology. 
+    
+    I excel at building relationships with internal and external stakeholders, developing documentation and training materials for sales teams and consultants, and creating data driven presentations to demonstrate product performance. My problem-solving mindset drives me to analyze program performance, identify key areas to improve customer experience, and make process improvement recommendations to management. With a Master's in Business Analytics and a Bachelor's in Strategic Communications from the University of Colorado Boulder, I stay up-to-date on the latest tech, growth marketing, and CX trends in the utility industry and clean tech sector. Outside of work, I am an aspiring entrepreneur, outdoor enthusiast, and am always ready to take on challenges and dive into innovative solutions.
 
 content:
   # - title: Projects # Title for the section
@@ -86,6 +88,9 @@ content:
             * Work with product managers to identify and define KPI’s for tracking product portfolio performance; pulled reports from variety of sources including Salesforce.com and other legacy systems to report to leadership and external stakeholders
             * Developed process for building, testing, launching and monitoring email campaigns to achieve operational excellence; documented tasks and steps to ensure repeatable process with seamless knowledge transfer
             * Designed and implimented strategic marketing campaign which gained Xcel Energy recognition from SECC as a leader in Consumer Education for a robust, multi-channel campaign that helped consumers learn the specifics of a new time-of-use rate and empowered them to manage their energy use
+
+            ---
+
       - layout: left
         title: Pulitzer Family Law
         link: https://pulitzerfamilylaw.com
@@ -98,6 +103,9 @@ content:
             * Developed marketing strategies for customer acquisition; implimented tactics including office relocation and segment pivot resulting in increase in revenue and reduction in total billed hours.
             * Built various dashboard utilizing Google Analytics to optimize campaign effectiveness; tracked leads from multiple law directories and reallocated a $20,000 marketing budget to maximize ROI based on historical ad performance
             * Oversaw web development team to ensure project build was completed in designated timeframe and within budget while maintaining brand standards and company values
+
+            ---
+
       - layout: left
         title: 8z Real Estate
         link: https://8z.com/
@@ -110,6 +118,9 @@ content:
             * Created webpages and configured newsletter email automation for 80+ raeltors utilizing Adobe Dreamweaver, HTML, CSS, WordPress, and Mailchimp
             * Assisted Marketing Director with inventory management to establish homogeneous display of brand image across 8 offices in Colorado; showcased strong written and verbal communication skills to eliminate delay in marketing materials
             * Devised targeted social media campaigns and defined clear customer segmentation strategy to increase total impressions; collaborated with CMO and client care team to manage omni-channel marketing campaigns
+
+            ---
+
       - layout: left
         title: Untapped Learning
         link: https://untappedlearning.com/
